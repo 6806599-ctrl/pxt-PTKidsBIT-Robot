@@ -5,7 +5,7 @@
  * generated for an **exported** function.
  */
 
-let Sensor_All_PIN = [0, 1, 2, 3, 4, 5]
+let Sensor_All_PIN = [1, 2, 3, 4]
 let Sensor_PIN = [1, 2, 3, 4]
 let Sensor_Left = [0]
 let Sensor_Right = [5]
