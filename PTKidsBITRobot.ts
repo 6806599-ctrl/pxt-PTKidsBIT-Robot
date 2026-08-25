@@ -7,8 +7,8 @@
 
 let Sensor_All_PIN = [1, 2, 3, 4]
 let Sensor_PIN = [1, 2, 3, 4]
-let Sensor_Left = [0]
-let Sensor_Right = [5]
+let Sensor_Left = [1]
+let Sensor_Right = [4]
 let Num_Sensor = 4
 let LED_PIN = 0
 
